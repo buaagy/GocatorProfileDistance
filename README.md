@@ -6,7 +6,7 @@ The two profiles can be the straight lines or curves.<br>
 The tool is developed by using the Gocator Gdk 4.6.7.126.<br>
 You can find the latest Gocator Gdk from LMI official website: http://lmi3d.com/<br>
 <br>
-## Build Procedures
+# Build Procedures
 <br>
 1. Clone or download the project folder to the Gocator GDK folder (such as "14524-4.6.7.126_SOFTWARE_GDK").<br>
 <br>
