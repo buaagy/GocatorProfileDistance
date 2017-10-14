@@ -10,6 +10,7 @@ You can find the latest Gocator Gdk from LMI official website: http://lmi3d.com/
 Build Procedures:<br>
 <br>
 1. Prepare the development environment: Visual Studio 2013 and Python 3.4+.<br>
+<br>
 2. Clone or download the project folder to the Gocator GDK folder (such as "14524-4.6.7.126_SOFTWARE_GDK").<br>
 <br>
 3. Open the "generate.py" in "GdkProfileDistance" folder, and change the "GocatorProfileDistance" to your project folder name (such as "GocatorProfileDistance-master").<br>
