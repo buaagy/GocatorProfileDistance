@@ -1,12 +1,14 @@
 # GocatorProfileDistance
 <br>
-The profile distance tool is a sample tool to measure the average distance between two parallel profiles.<br>
-The profiles can be the straight lines or curves.<br>
+The profile distance tool is a sample Gocator Gdk tool to measure the average distance between two parallel profiles.<br>
+The two profiles can be the straight lines or curves.<br>
 <br>
-The tool is developed by using the latest Gocator Gdk (4.6.7.126).<br>
-You can find the Gocator Gdk from LMI official website: http://lmi3d.com/<br>
+The tool is developed by using the Gocator Gdk 4.6.7.126.<br>
+You can find the latest Gocator Gdk from LMI official website: http://lmi3d.com/<br>
 <br>
-1. Clone or download the project folder to the Gocator GDK folder called "14524-4.6.7.126_SOFTWARE_GDK".<br>
+## Build Procedures:
+<br>
+1. Clone or download the project folder to the Gocator GDK folder (such as "14524-4.6.7.126_SOFTWARE_GDK").<br>
 <br>
 2. Open the "generate.py" in "GdkProfileDistance" folder, and change the "GocatorProfileDistance" to your project folder name (such as "GocatorProfileDistance-master").<br>
 <br>
